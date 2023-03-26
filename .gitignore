@@ -1,6 +1,7 @@
 node_modules/
 src/.nova/
 src/.nova/Configuration.json
+dist
 
 # macOS
 .DS_Store
